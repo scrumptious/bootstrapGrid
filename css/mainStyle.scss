@@ -1,0 +1,16 @@
+$colorDark1: #474344;
+$colorDark2: #52484a;
+$colorDark3: #614f52; 
+$colorBright1: #dcdcdc;
+$colorBright2: #cfcaco;
+$colorBright3: #b6ad9e;
+body {
+	background-color: $colorDark1;
+	color: #fff;
+}
+h1 {
+	color: #fff;
+}
+.leftOne, .middleOne, .rightOne {
+	border: 1px solid white;
+}

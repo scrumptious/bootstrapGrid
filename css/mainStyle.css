@@ -1,0 +1,17 @@
+body {
+  background-color: #474344;
+  color: #fff; }
+
+h1 {
+  color: #fff; }
+
+.leftOne, .middleOne, .rightOne {
+  border: 1px solid white; }
+
+.col-xs-12 {
+  font-size: 3rem; }
+
+.col-md-4 {
+  font-size: 1.5rem; }
+
+/*# sourceMappingURL=mainStyle.css.map */
